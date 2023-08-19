@@ -1,0 +1,7 @@
+.xl\:bg-white {
+    background: url('../images/login_bg.png') !important;
+    background-attachment: fixed;
+    background-position: center center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
